@@ -1,15 +1,6 @@
 ---
-sidebar_position: 1
-name: Sam Sycamore
-avatar: /static/images/sycamore-400.jpeg
-occupation: Writer and web developer
-email: sam@sycamore.design
-twitter: https://twitter.com/tanoaksam
-linkedin: https://www.linkedin.com/in/samuelsycamore
-github: https://github.com/samuelsycamore
+title: About
 ---
-
-# About Sam Sycamore
 
 Sam Sycamore is a web developer and writer in the tech industry. His specialties include front-end development with JavaScript/TypeScript and React as well as technical writing, copywriting, and multimedia content creation related to these subjects.
 
