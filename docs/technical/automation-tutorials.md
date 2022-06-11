@@ -3,7 +3,7 @@ title: A three-part tutorial series for a browser automation tool
 date: '2020-06-01'
 tags: ['technical writing', 'tutorial']
 draft: false
-summary: I worked with Axiom to create an introductory tutorial series to help onboard new users to their product.
+description: I worked with Axiom to create an introductory tutorial series to help onboard new users to their product.
 ---
 
 ![](/images/axiom/axiom-1.png)
